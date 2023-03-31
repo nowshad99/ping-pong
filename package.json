@@ -1,0 +1,24 @@
+{
+  "name": "ping-pong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nowshad99/ping-pong.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nowshad99/ping-pong/issues"
+  },
+  "homepage": "https://github.com/nowshad99/ping-pong#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
